@@ -21,14 +21,17 @@ Clone and launch!
 ```bash
 git clone https://github.com/bad-bit/mailpl0it.git
 ```
+```
+```
+
 
 ## Usage
 
 
 ```
-python mailpl0it.py --list "Remote Code Execution, Citrix, Privilege Escalation" -m mailid@gmail.com
+python mailpl0it.py -l "Remote Code Execution, Citrix, Privilege Escalation" -m mailid@gmail.com
 
-## Help message:
+> Help message:
 
 mailpl0it.py [-h] -l WORDLIST [-s SLEEPTIME] -m EMAIL [-p PASSWORD]
 
