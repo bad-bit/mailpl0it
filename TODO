@@ -1,0 +1,1 @@
+1. Add a checker routine if user query not found and password not set as in that case the user will only be notified when a query is found and he checks the terminal
