@@ -26,6 +26,11 @@ git clone https://github.com/bad-bit/mailpl0it.git
 ```
 python mailpl0it.py -l "Remote Code Execution, Citrix, Privilege Escalation" -m mailid@gmail.com
 ```
+![alt text](https://github.com/bad-bit/mailpl0it/blob/master/terminal.jpg?raw=true)
+
+> OUTPUT in the mailbox.
+
+![alt text](https://github.com/bad-bit/mailpl0it/blob/master/OP.jpg?raw=true)
 ___
 ```
 
