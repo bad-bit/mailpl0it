@@ -9,7 +9,7 @@ Please refer the "Points to note" section below for more details.
 _________________________
 
 Mailpl0it was made:
-- To get notified only for user-specified specific class of exploits on the mailbox.
+- To get notified only for user-specified, specific class of exploits on the mailbox.
 -  Out of pure curiosity while playing around with the requests library (Already aware of exploit-db's [RSS](https://www.exploit-db.com/rss.xml) feed, still, import requests, because why not!). 
 
 
