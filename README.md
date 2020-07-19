@@ -24,7 +24,7 @@ git clone https://github.com/bad-bit/mailpl0it.git
 ## Usage
 
 ```
-python mailpl0it.py -l "Remote Code Execution, Citrix, Privilege Escalation" -m mailid@gmail.com
+python mailpl0it.py -l "Remote Code Execution, Citrix, Privilege Escalation" -m mailid@gmail.com -p passw0rd
 ```
 ![alt text](https://github.com/bad-bit/mailpl0it/blob/master/terminal.jpg?raw=true)
 
