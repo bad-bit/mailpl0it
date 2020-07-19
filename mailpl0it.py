@@ -47,7 +47,9 @@ def main():
 	except Exception as e:
 	    print("[-] Please input coma seperated words in quotes. Refer help.")
 	    exit()
-		
+	
+	words = [x.lower() for x in words]
+
 	feed()
 
 def feed():
@@ -93,6 +95,7 @@ def feed():
 
 	if status == '200' or '301':
 		data = resp.split("\"")
+		data = [x.lower() for x in data]
 		
 		for lines in data: 
 			for all_words in words: 
@@ -178,6 +181,8 @@ def compare(comp):
 
 		if status == '200' or '301':
 			data = resp.split("\"")
+			data = [x.lower() for x in data]
+			
 			for lines in data:
 				for all_words in words:
 					if all_words in lines:					
