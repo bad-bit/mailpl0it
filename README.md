@@ -2,7 +2,7 @@
 
 Mailpl0it is a small utility that hunts the homepage of [exploit-db](https://www.exploit-db.com/) looking for user supplied quer(y/ies) and notifies the user via email if an exploit is found for the supplied query.
 
-Please note that the utility has only been made for Gmail inboxes. Since the utility uses Python to send emails, so in order to receive emails on the mailbox - the user will have to toggle [this](https://myaccount.google.com/lesssecureapps) switch.
+Please note that the utility has only been made for Gmail inboxes. The utility uses Python's libraries to send emails, so in order to receive emails on the mailbox - the user will have to toggle [this](https://myaccount.google.com/lesssecureapps) switch.
 
 Please refer the "Points to note" section below for more details.
 
