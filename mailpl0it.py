@@ -89,7 +89,7 @@ def feed():
 		request = requests.get(url, headers = headers)
 		status = request.status_code
 	except Exception as e:
-	    print('[-] %s could not be reached. Please check your connection. \n[-] Printing exception:\n%s' % (url2, e))
+	    print('[-] %s could not be reached. Please check your connection. \n\n[-] Printing exception:\n\n%s' % ("exploit-db", e))
 	    exit()
 
 	resp = request.text
