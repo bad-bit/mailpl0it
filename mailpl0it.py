@@ -1,4 +1,5 @@
 '''
+Developed in Python3. Tested on Win10, Arch
 Author - Vaibhav Choudhari
 Twitter - _badbit_
 '''
