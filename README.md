@@ -59,6 +59,3 @@ The user will have to either pass the recipient email's password as an argument 
 
 - The utility has been tested only on Gmail. By default, Gmail doesn't allow Python to send emails to your mailbox. The user can however manually enable it by visiting [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps). This setting can't be enabled for accounts having 2FA. Again, it is recommended to create a throwaway account for this utility which you can dedicate only for this purpose without having to worry about harcoding your credentials in clear text! :D
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
