@@ -42,7 +42,7 @@ optional arguments:
   -h, --help            show this help message and exit
   -l WORDLIST, --list WORDLIST
                         Comma seperated words to hunt on exploit-db. Example:
-                        mailpl0it.py -l "LPR, RCE"
+                        mailpl0it.py -l "LPE, RCE"
   -s SLEEPTIME, --sleep SLEEPTIME
                         Time to sleep in seconds before checking exploit-db
                         for new results. Default is 3600s / 1 hour.
